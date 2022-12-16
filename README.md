@@ -8,4 +8,6 @@ sign language sentences and outputs a translation text, so this is a sequence to
 
 `T5-video-transformer.ipynb` contains the code for this task. <br>
 `asl_static_recog.ipynb` contains the code for a simple fine-tuned Inception-v3 model
-that classifies images containing ASL alphabets
+that classifies images containing ASL alphabets <br />
+<br />
+For more information, check out the [SLT project page](https://vsarg-dev.github.io/project/sign-language-translation/) on my website! 
